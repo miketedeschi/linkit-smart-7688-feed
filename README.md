@@ -1,4 +1,4 @@
-# linkit-smart-feed
+# linkit-smart-feed (modified for chainsensor)
 This feeds holds the SDK wifi driver and the config/meta package for the LinkIt Smart 7688 (Duo)
 
 # Build the firmware from sources
